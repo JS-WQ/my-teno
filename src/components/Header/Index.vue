@@ -15,19 +15,7 @@
               class="blackLogo"
             ></i>
             <i
-              style="background-image:url('~/images/icons/logo-black.png')"
-              class="blackLogo"
-            ></i>
-             <i
-              style="background-image:url('@images/icons/logo-black.png')"
-              class="blackLogo"
-            ></i>
-            <i
-              style="background-image:url('../../assets/images/icons/logo-black.png')"
-              class="blackLogo"
-            ></i>
-            <i
-              style="background-image:url('../../assets/images/icons/logo-white.png')"
+              style="background-image:url('./images/icons/logo-white.png')"
               class="whiteLogo"
             ></i>
           </router-link>

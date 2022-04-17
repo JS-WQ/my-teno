@@ -11,11 +11,11 @@
         <div class="headLeft">
           <div class="logo">
             <i
-              style="background-image:url('../../assets/images/icons/logo-black.png')"
+              style="background-image:url('./images/icons/logo-black.png')"
               class="logoBlackImg"
             ></i>
             <i
-              style="background-image:url('../../assets/images/icons/logo-white.png')"
+              style="background-image:url('./images/icons/logo-white.png')"
               class="logoImg"
             ></i>
           </div>
@@ -188,7 +188,7 @@
     <div class="laHeadBoxWap">
       <div class="headTopMenuWap">
         <div class="logo">
-          <i style="background-image:url('../../assets/images/icons/logo-black.png')"></i>
+          <i style="background-image:url('./images/icons/logo-black.png')"></i>
         </div>
         <div
           class="wap-btn-box"
