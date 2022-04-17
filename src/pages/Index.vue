@@ -50,6 +50,9 @@
         <a href="https://beian.miit.gov.cn/">粤ICP备11007859号</a>
       </div>
     </div>
+    <img src="../assets/image/png/index-kodice.png">
+    <img src="../assets/image/png/index-ladanum.png">
+    <img src="../assets/image/png/index-myteno.png">
   </div>
 </template>
 
