@@ -4,7 +4,7 @@
       <div class="inner">
         <i
           class="teLogo"
-          style="background-image:url(../assets/images/icons/logo-black.png)"
+          style="background-image:url(../../assets/images/icons/logo-black.png)"
           v-if="name === 'te'"
         ></i>
         <i
