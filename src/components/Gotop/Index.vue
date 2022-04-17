@@ -6,7 +6,7 @@
       :bottom='initData.bottom'
       :visibility-height='initData.visibilityHeight'
     >
-      <img src="../images/png/top.png">
+      <img src="../../assets/images/png/top.png">
     </el-backtop>
   </div>
 </template>

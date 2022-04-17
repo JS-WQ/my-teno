@@ -15,7 +15,7 @@
           <div class="itemTitle">
             <span>{{item.title}}</span>
             <div class="itemBtn">
-              <img src="../images/png/career-btn.png">
+              <img src="../assets/images/png/career-btn.png">
             </div>
           </div>
           <div

@@ -36,13 +36,13 @@
       >
         <ul>
           <li :class="{'active':activeIndex == 0}" @mouseover='isHover(0)'>
-              <router-link :to="{name:'teCampaign',params:{id:`${teCamId}`}}"><img src="../images/png/Myteno.png"></router-link>
+              <router-link :to="{name:'teCampaign',params:{id:`${teCamId}`}}"><img src="../assets/images/png/Myteno.png"></router-link>
           </li>
           <li :class="{'active':activeIndex == 1}" @mouseover='isHover(1)'>
-              <router-link :to="{name:'laCampaign',params:{id:`${laCamId}`}}"><img src="../images/png/Ladanum.png"></router-link>
+              <router-link :to="{name:'laCampaign',params:{id:`${laCamId}`}}"><img src="../assets/images/png/Ladanum.png"></router-link>
           </li>
           <li :class="{'active':activeIndex == 2}" @mouseover='isHover(2)'>
-            <a :href="indexData.list[2].link_url"><img src="../images/png/kodice.png"></a>
+            <a :href="indexData.list[2].link_url"><img src="../assets/images/png/kodice.png"></a>
           </li>
         </ul>
       </div>

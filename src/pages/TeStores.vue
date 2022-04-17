@@ -27,7 +27,7 @@
                 <span>{{item[0].title}}</span>
                 <i
                   class="iconImg"
-                  style="background-image:url(../images/png/campaign-btn.png)"
+                  style="background-image:url(../assets/images/png/campaign-btn.png)"
                 ></i>
               </div>
             </div>
@@ -42,7 +42,7 @@
                 <span>{{item[1].title}}</span>
                 <i
                   class="iconImg"
-                  style="background-image:url(../images/png/campaign-btn.png)"
+                  style="background-image:url(../assets/images/png/campaign-btn.png)"
                 ></i>
               </div>
             </div>
@@ -58,7 +58,7 @@
                 <span>{{item[2].title}}</span>
                 <i
                   class="iconImg"
-                  style="background-image:url(../images/png/campaign-btn.png)"
+                  style="background-image:url(../assets/images/png/campaign-btn.png)"
                 ></i>
               </div>
             </li>
@@ -70,7 +70,7 @@
                 <span>{{item[3].title}}</span>
                 <i
                   class="iconImg"
-                  style="background-image:url(../images/png/campaign-btn.png)"
+                  style="background-image:url(../assets/images/png/campaign-btn.png)"
                 ></i>
               </div>
             </li>
@@ -82,7 +82,7 @@
                 <span>{{item[4].title}}</span>
                 <i
                   class="iconImg"
-                  style="background-image:url(../images/png/campaign-btn.png)"
+                  style="background-image:url(../assets/images/png/campaign-btn.png)"
                 ></i>
               </div>
             </li>
@@ -97,7 +97,7 @@
               <span>{{item[4].title}}</span>
               <i
                 class="iconImg"
-                style="background-image:url(../images/png/campaign-btn.png)"
+                style="background-image:url(../assets/images/png/campaign-btn.png)"
               ></i>
             </div>
           </div>

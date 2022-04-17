@@ -25,7 +25,7 @@
             <span>{{item.title}}</span>
             <i
               class="iconImg"
-              style="background-image:url(../images/png/campaign-btn.png)"
+              style="background-image:url(../assets/images/png/campaign-btn.png)"
             ></i>
           </p>
         </li>

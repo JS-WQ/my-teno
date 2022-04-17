@@ -14,11 +14,11 @@
               <ul class="companyItemBox active">
                 <li>
                   <img
-                    src="../images/footer/myteno-wx.jpg"
+                    src="../../assets/images/footer/myteno-wx.jpg"
                     class="ewmImg"
                   >
                   <img
-                    src="../images/footer/wxIcon.png"
+                    src="../../assets/images/footer/wxIcon.png"
                     class="contactIcon"
                   >
                 </li>
@@ -28,18 +28,18 @@
                     target="_blank"
                   >
                     <img
-                      src="../images/footer/tmIcon.png"
+                      src="../../assets/images/footer/tmIcon.png"
                       class="contactIcon"
                     >
                   </a>
                 </li>
                 <li>
                   <img
-                    src="../images/footer/myteno-dy.jpg"
+                    src="../../assets/images/footer/myteno-dy.jpg"
                     class="ewmImg"
                   >
                   <img
-                    src="../images/footer/douyinIcon.png"
+                    src="../../assets/images/footer/douyinIcon.png"
                     class="contactIcon"
                   >
                 </li>
@@ -47,11 +47,11 @@
               <ul class="companyItemBox">
                 <li>
                   <img
-                    src="../images/footer/ladanum-wx.jpg"
+                    src="../../assets/images/footer/ladanum-wx.jpg"
                     class="ewmImg"
                   >
                   <img
-                    src="../images/footer/wxIcon.png"
+                    src="../../assets/images/footer/wxIcon.png"
                     class="contactIcon"
                   >
                 </li>
@@ -61,7 +61,7 @@
                     target="_blank"
                   >
                     <img
-                      src="../images/footer/tmIcon.png"
+                      src="../../assets/images/footer/tmIcon.png"
                       class="contactIcon"
                     >
                   </a>
@@ -70,11 +70,11 @@
               <ul class="companyItemBox">
                 <li>
                   <img
-                    src="../images/footer/KODICE-wx.jpg"
+                    src="../../assets/images/footer/KODICE-wx.jpg"
                     class="ewmImg"
                   >
                   <img
-                    src="../images/footer/wxIcon.png"
+                    src="../../assets/images/footer/wxIcon.png"
                     class="contactIcon"
                   >
                 </li>
@@ -84,28 +84,28 @@
                     target="_blank"
                   >
                     <img
-                      src="../images/footer/tmIcon.png"
+                      src="../../assets/images/footer/tmIcon.png"
                       class="contactIcon"
                     >
                   </a>
                 </li>
                 <li>
                   <img
-                    src="../images/footer/KODICE-dy.jpg"
+                    src="../../assets/images/footer/KODICE-dy.jpg"
                     class="ewmImg"
                   >
                   <img
-                    src="../images/footer/douyinIcon.png"
+                    src="../../assets/images/footer/douyinIcon.png"
                     class="contactIcon"
                   >
                 </li>
                 <li>
                   <img
-                    src="../images/footer/KODICE-KIKI-dy.jpg"
+                    src="../../assets/images/footer/KODICE-KIKI-dy.jpg"
                     class="ewmImg"
                   >
                   <img
-                    src="../images/footer/douyinIcon.png"
+                    src="../../assets/images/footer/douyinIcon.png"
                     class="contactIcon"
                   >
                 </li>
@@ -115,7 +115,7 @@
                     target="_blank"
                   >
                     <img
-                      src="../images/footer/weiboIcon.png"
+                      src="../../assets/images/footer/weiboIcon.png"
                       class="contactIcon"
                     >
                   </a>
@@ -126,7 +126,7 @@
                     target="_blank"
                   >
                     <img
-                      src="../images/footer/xiaohongshu.png"
+                      src="../../assets/images/footer/xiaohongshu.png"
                       class="contactIcon"
                     >
                   </a>
@@ -201,18 +201,18 @@
           <ul class="contactIconBox">
             <li>
               <img
-                src="../images/footer/ladanum-wx.jpg"
+                src="../../assets/images/footer/ladanum-wx.jpg"
                 class="ewmImg"
               >
               <img
-                src="../images/footer/wxmini.png"
+                src="../../assets/images/footer/wxmini.png"
                 class="contactIcon"
               >
             </li>
             <li>
               <a href="https://ladanum.tmall.com/">
                 <img
-                  src="../images/footer/tmmini.png"
+                  src="../../assets/images/footer/tmmini.png"
                   class="contactIcon"
                 >
               </a>
@@ -239,11 +239,11 @@
           <ul class="contactIconBox">
             <li>
               <img
-                src="../images/footer/myteno-wx.jpg"
+                src="../../assets/images/footer/myteno-wx.jpg"
                 class="ewmImg"
               >
               <img
-                src="../images/footer/wxmini.png"
+                src="../../assets/images/footer/wxmini.png"
                 class="contactIcon"
               >
             </li>
@@ -253,18 +253,18 @@
                 target="_blank"
               >
                 <img
-                  src="../images/footer/tmmini.png"
+                  src="../../assets/images/footer/tmmini.png"
                   class="contactIcon"
                 >
               </a>
             </li>
             <li>
               <img
-                src="../images/footer/myteno-dy.jpg"
+                src="../../assets/images/footer/myteno-dy.jpg"
                 class="ewmImg"
               >
               <img
-                src="../images/footer/douyinmini.png"
+                src="../../assets/images/footer/douyinmini.png"
                 class="contactIcon"
               >
             </li>
