@@ -1,0 +1,12 @@
+/* @font-face {
+  font-family: 'FUTURAL';
+  src: url('./fonts/FUTURAL.TTF'),
+  url('./fonts/FUTURAL.eot');
+} */
+
+@font-face {
+  font-family: 'MADEBonVoyageRegular';
+  src: url('./fonts/MADEBonVoyageRegular.ttf'),
+  url('./fonts/MADEBonVoyageRegular.eot'),
+  url('./fonts/MADEBonVoyageRegular.woff');
+}

@@ -1,0 +1,165 @@
+%ellipsis {
+    width: 100%;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+%animeate_a{
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear;
+}
+
+%animeate_o{
+    -webkit-transition: opacity .3s linear;
+    -moz-transition: opacity .3s linear;
+    -ms-transition: opacity .3s linear;
+    -o-transition: opacity .3s linear;
+    transition: opacity .3s linear;
+}
+
+%animeate_w{
+    -webkit-transition: width .3s linear;
+    -moz-transition: width .3s linear;
+    -ms-transition: width .3s linear;
+    -o-transition: width .3s linear;
+    transition: width .3s linear;
+}
+
+%animeate_t{
+    -webkit-transition: transform .3s linear;
+    -moz-transition: transform .3s linear;
+    -ms-transition: transform .3s linear;
+    -o-transition: transform .3s linear;
+    transition: transform .3s linear;
+}
+
+%scale{
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+%full {
+    width: 100%;
+    height: 100%;
+}
+
+%clearfix {
+    &:after {
+        content: '';
+        display: block;
+        width: 0;
+        height: 0;
+        visibility: hidden;
+        clear: both;
+    }
+}
+
+%unselect {
+    user-select: none;
+}
+
+%table {
+    display: table;
+    box-sizing: border-box;
+    table-layout: fixed;
+}
+
+%cell {
+    display: table-cell;
+    box-sizing: border-box;
+    text-align: center;
+    vertical-align: middle;
+}
+
+%bgcover {
+    background: no-repeat center center / cover;
+}
+
+/* 各种垂直水平居中 */
+/* 水平居中 */
+%c-abs-w{
+    position: absolute;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+/* 垂直居中 */
+%c-abs-h{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+}
+
+%c-table {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+%c-abs {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform:translate(-50%, -50%);
+    -ms-transform:translate(-50%, -50%);
+    -o-transform:translate(-50%, -50%);
+}
+
+%c-fix{
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+}
+
+%c-mar {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+}
+
+%c-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+%c-ib {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+
+
+//指定元素宽度
+%hc-mar {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+//父类要指定text-align: center;
+%hc-ib {
+    display: inline-block;
+}
+
