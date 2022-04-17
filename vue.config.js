@@ -12,7 +12,7 @@ module.exports = defineConfig({
         config.resolve.alias
             .set('styles', resolve('src/assets/styles'))
     },
-    publicPath: process.env.NODE_ENV === "production" ? "/my-teno/" : "/",
+    publicPath: process.env.NODE_ENV === "production" ? "./" : "/",
     devServer: {
         proxy: {
             '/api': {
