@@ -25,7 +25,7 @@
         ></h2>
         <div
           class="videoBtn"
-          style="background-image: url('/images/png/star-btn.png')"
+          style="background-image: url('../images/png/star-btn.png')"
           v-if="bannerData.video_src"
         >
           <i class="iconfont icon-bofang"></i>
@@ -33,7 +33,7 @@
       </div>
       <div class="nextBtnBox" v-toNext>
         <div class="nextImg"><i class="iconfont icon-next-btn"></i></div>
-        <img src="/images/png/next-btn-solide.png">
+        <img src="../images/png/next-btn-solide.png">
       </div>
     </div>
 </template>

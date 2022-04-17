@@ -19,7 +19,7 @@
           <div class="btnBox">
             <div
               class="wrapper"
-              style="background-image: url('/images/png/star-btn.png')"
+              style="background-image: url('../images/png/star-btn.png')"
             >
               <span>Read</span>
             </div>

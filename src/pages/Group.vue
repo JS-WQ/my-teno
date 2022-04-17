@@ -15,7 +15,7 @@
       v-if="groupData.banner.categoryid"
     >
       <div class="module-title wow fadeInUp">
-        <img src="/images/png/myteno-icon.png">
+        <img src="../images/png/myteno-icon.png">
         <h2>About Group</h2>
         <span></span>
         <h5>关于集团</h5>

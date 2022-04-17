@@ -29,7 +29,7 @@
             <h3 class="h3-50"> MY TENO × {{item.title}}</h3>
             <div
               class="videoBtn"
-              style="background-image: url('/images/png/star-btn.png')"
+              style="background-image: url('../images/png/star-btn.png')"
               v-if="item.video_src"
               @click="startVideo($event)"
             >

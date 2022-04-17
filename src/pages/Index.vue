@@ -36,13 +36,13 @@
       >
         <ul>
           <li :class="{'active':activeIndex == 0}" @mouseover='isHover(0)'>
-              <router-link :to="{name:'teCampaign',params:{id:`${teCamId}`}}"><img src="/images/png/Myteno.png"></router-link>
+              <router-link :to="{name:'teCampaign',params:{id:`${teCamId}`}}"><img src="../images/png/Myteno.png"></router-link>
           </li>
           <li :class="{'active':activeIndex == 1}" @mouseover='isHover(1)'>
-              <router-link :to="{name:'laCampaign',params:{id:`${laCamId}`}}"><img src="/images/png/Ladanum.png"></router-link>
+              <router-link :to="{name:'laCampaign',params:{id:`${laCamId}`}}"><img src="../images/png/Ladanum.png"></router-link>
           </li>
           <li :class="{'active':activeIndex == 2}" @mouseover='isHover(2)'>
-            <a :href="indexData.list[2].link_url"><img src="/images/png/kodice.png"></a>
+            <a :href="indexData.list[2].link_url"><img src="../images/png/kodice.png"></a>
           </li>
         </ul>
       </div>
@@ -50,9 +50,6 @@
         <a href="https://beian.miit.gov.cn/">粤ICP备11007859号</a>
       </div>
     </div>
-    <img src="../assets/image/png/index-kodice.png">
-    <img src="../assets/image/png/index-ladanum.png">
-    <img src="../assets/image/png/index-myteno.png">
   </div>
 </template>
 

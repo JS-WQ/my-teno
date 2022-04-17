@@ -4,17 +4,17 @@
       <div class="inner">
         <i
           class="teLogo"
-          style="background-image:url(/images/icons/logo-black.png)"
+          style="background-image:url(../images/icons/logo-black.png)"
           v-if="name === 'te'"
         ></i>
         <i
           class="adLogo"
-          style="background-image:url(/images/icons/logo-black.png)"
+          style="background-image:url(../images/icons/logo-black.png)"
           v-if="name === 'la'"
         ></i>
         <i
           class="normalLogo"
-          style="background-image:url(/images/icons/logo-black.png)"
+          style="background-image:url(../images/icons/logo-black.png)"
           v-if="name === 'main' || name === ''"
         ></i>
         <span></span>
