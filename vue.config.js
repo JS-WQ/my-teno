@@ -13,6 +13,7 @@ module.exports = defineConfig({
             .set('styles', resolve('src/assets/styles'))
     },
     publicPath: process.env.NODE_ENV === "production" ? "./" : "/",
+    assetsDir: process.env.NODE_ENV === "production" ? "./" : "/",
     devServer: {
         proxy: {
             '/api': {
