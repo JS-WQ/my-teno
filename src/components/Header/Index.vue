@@ -11,7 +11,7 @@
         <div class="logo">
           <router-link to="/">
             <i
-              style="background-image:url('~/images/icons/logo-black.png')"
+              style="background-image:url('/images/icons/logo-black.png')"
               class="blackLogo"
             ></i>
             <i
